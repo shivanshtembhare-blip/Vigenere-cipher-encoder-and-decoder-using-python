@@ -3,7 +3,7 @@ A project for encoding and decoding words and sentences using vigenere cipher pr
 # 📌Features
 1.Encode message using vigenere cipher
 2.Decode message using vigenere cipher
-3.ses custom key for better encryption
+3.set custom key for better encryption
 # 📌Built with
 Python
 # 📌 How It Works
