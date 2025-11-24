@@ -8,7 +8,7 @@ A project for encoding and decoding words and sentences using vigenere cipher pr
 3.set custom key for better encryption
 # 📌Built with
 Python
-# 📌 How It Works:
+#  How It Works:
 #  1.Encyption
 1.User enters message to encrypt
 
@@ -23,6 +23,7 @@ Python
 3.The program decrypts the message with the key
 
 ![](Output.png)
+
 
 
 
