@@ -11,11 +11,16 @@ Python
 # 📌 How It Works
 # 📌 Encyption
 1.User enters message to encrypt
+
 2.User enters the key for encrypting the message
+
 3.The program encrypts the message with the key
 # 📌 Decryption
 1.User enters message to decrypt
+
 2.User enters the key for decrypting the message
+
 3.The program decrypts the message with the key
 
-![](Screenshot 2025-11-25 003530.png)
+![](Screenshots)
+
