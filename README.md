@@ -8,14 +8,14 @@ A project for encoding and decoding words and sentences using vigenere cipher pr
 3.set custom key for better encryption
 # 📌Built with
 Python
-# 📌 How It Works
-# 📌 Encyption
+# 📌 How It Works:
+# 📌 1.Encyption
 1.User enters message to encrypt
 
 2.User enters the key for encrypting the message
 
 3.The program encrypts the message with the key
-# 📌 Decryption
+# 📌 2.Decryption
 1.User enters message to decrypt
 
 2.User enters the key for decrypting the message
@@ -23,5 +23,6 @@ Python
 3.The program decrypts the message with the key
 
 ![](Output.png)
+
 
 
