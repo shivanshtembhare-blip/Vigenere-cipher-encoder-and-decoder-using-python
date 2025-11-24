@@ -2,7 +2,9 @@
 A project for encoding and decoding words and sentences using vigenere cipher program in python.
 # 📌Features
 1.Encode message using vigenere cipher
+
 2.Decode message using vigenere cipher
+
 3.set custom key for better encryption
 # 📌Built with
 Python
@@ -15,4 +17,5 @@ Python
 1.User enters message to decrypt
 2.User enters the key for decrypting the message
 3.The program decrypts the message with the key
+
 ![](Screenshot 2025-11-25 003530.png)
