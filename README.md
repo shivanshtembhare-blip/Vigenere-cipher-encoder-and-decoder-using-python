@@ -22,8 +22,9 @@ Python
 
 3.The program decrypts the message with the key
 
-#Screenshot of program running:
+# Screenshot of program running:
 ![](Output.png)
+
 
 
 
