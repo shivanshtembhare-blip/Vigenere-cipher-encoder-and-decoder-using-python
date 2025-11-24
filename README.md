@@ -22,5 +22,6 @@ Python
 
 3.The program decrypts the message with the key
 
-![](Screenshots)
+![](Output.png)
+
 
